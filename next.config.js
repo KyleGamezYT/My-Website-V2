@@ -35,8 +35,8 @@ const nextConfig = {
  async redirects() {
   return [
    {
-    source: "/discord",
-    destination: "https://discord.gg/uxtSMtd2xZ",
+    source: "/education",
+    destination: "https://tysonmiddlehigh.eastorange.k12.nj.us",
     permanent: true,
    },
    {
