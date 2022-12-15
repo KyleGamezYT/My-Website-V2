@@ -36,7 +36,8 @@ const nextConfig = {
   return [
    {
     source: "/education",
-    destination: "https://tysonmiddlehigh.eastorange.k12.nj.us",
+    destination: "https://tysonmiddlehigh.eastorange.k12.nj.us"
+   },
     permanent: true,
    },
    {
