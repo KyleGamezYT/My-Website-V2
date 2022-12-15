@@ -1,11 +1,11 @@
 import Link from "next/link";
 
 export const meta = {
- title: "Igor Kowalczyk",
- author: "Igor Kowalczyk",
+ title: "KyleTheDuck",
+ author: "Kyle Bain",
  description: "I'm a full-stack developer based in Poland. I have a passion for building web applications and solving problems",
  url: "https://igorkowalczyk.dev",
- theme_color: "#5485f2",
+ theme_color: "#fade80",
  type: "website",
 };
 
@@ -14,9 +14,9 @@ export const feautures = {
 };
 
 export const header = {
- title: "Igor Kowalczyk",
- subtitle: "Full-stack developer",
- description: "I'm a full-stack developer based in Poland. I have a passion for building web applications and solving problems.",
+ title: "Kyle Bain",
+ subtitle: "Node.js Developer",
+ description: "I'm a Node. JS Developer In school. Based in the USA.",
  code: {
   default: {
    user: "igorkowalczyk",
@@ -73,7 +73,7 @@ export const nav = {
 export const contact = {
  links: [
   {
-   href: "mailto:majonezexe@protonmail.com",
+   href: "mailto:kyle@kyletheduck.tk",
    title: "Email",
    icon: (
     <svg xmlns="http://www.w3.org/2000/svg" className="mt-[2px] mr-2 h-4 w-4 duration-200 motion-reduce:transition-none" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
