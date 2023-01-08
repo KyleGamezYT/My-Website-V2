@@ -36,20 +36,20 @@ const nextConfig = {
   return [
    {
     source: "/education",
-    destination: "https://tysonmiddlehigh.eastorange.k12.nj.us"
+    destination: "https://tysonmiddlehigh.eastorange.k12.nj.us",
+     permanet: true,
    },
-    permanent: true,
-   },
+    {
+      source: "/redirects/finance/paylink",
+      destinaton: "https://gl.me/u/729c7GkjJmFr"
+    },
+   
    {
     source: "/twitter",
-    destination: "https://twitter.com/majonezexe",
+    destination: "https://twitter.com/kyletheduck",
     permanent: true,
    },
-   {
-    source: "/instagram",
-    destination: "https://www.instagram.com/majonezexe/",
-    permanent: true,
-   },
+   
    {
     source: "/github",
     destination: "https://github.com/igorkowalczyk",

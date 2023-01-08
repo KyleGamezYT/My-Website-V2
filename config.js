@@ -4,7 +4,7 @@ export const meta = {
  title: "KyleTheDuck",
  author: "Kyle Bain",
  description: "I'm a full-stack developer based in Poland. I have a passion for building web applications and solving problems",
- url: "https://igorkowalczyk.dev",
+ url: "https://kyletheduck.tk",
  theme_color: "#fade80",
  type: "website",
 };
